@@ -14,7 +14,6 @@ body {
 /* Navbar */
 .navbar {
   background-color: #ff6a00;
-  position: sticky;
   top: 0;
   width: 100%;
   z-index: 1000;
